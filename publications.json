@@ -1,0 +1,4133 @@
+[
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2024,
+                    4,
+                    11
+                ]
+            ],
+            "date-time": "2024-04-11T05:13:33Z",
+            "timestamp": 1712812413727
+        },
+        "reference-count": 115,
+        "publisher": "IEEE",
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    4
+                ]
+            ]
+        },
+        "DOI": "10.1109/eurosp.2018.00035",
+        "type": "proceedings-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    9
+                ]
+            ],
+            "date-time": "2018-07-09T22:44:36Z",
+            "timestamp": 1531176276000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 222,
+        "title": [
+            "SoK: Security and Privacy in Machine Learning"
+        ],
+        "prefix": "10.1109",
+        "author": [
+            {
+                "given": "Nicolas",
+                "family": "Papernot",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Patrick",
+                "family": "McDaniel",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Arunesh",
+                "family": "Sinha",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Michael P.",
+                "family": "Wellman",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "263",
+        "reference": [
+            {
+                "key": "ref39",
+                "first-page": "870",
+                "article-title": "Adversarial label flips attack on support vector machines",
+                "author": "xiao",
+                "year": "2012",
+                "journal-title": "Proceedings of the 20th European Conference on Artificial Intelligence"
+            },
+            {
+                "key": "ref38",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/JBHI.2014.2344095"
+            },
+            {
+                "key": "ref33",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1143844.1143889"
+            },
+            {
+                "key": "ref32",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1137/0222052"
+            },
+            {
+                "key": "ref31",
+                "first-page": "37",
+                "article-title": "Evaluation: From precision, recall and F-measure to ROC, informedness, markedness and correlation",
+                "volume": "2",
+                "author": "powers",
+                "year": "2011",
+                "journal-title": "Journal of Machine Learning Technologies"
+            },
+            {
+                "key": "ref30",
+                "author": "shokri",
+                "year": "2016",
+                "journal-title": "Membership inference attacks against machine learning models"
+            },
+            {
+                "key": "ref37",
+                "first-page": "97",
+                "article-title": "Support vector machines under adversarial label noise",
+                "author": "biggio",
+                "year": "2011",
+                "journal-title": "Asian Conference on Machine Learning"
+            },
+            {
+                "key": "ref36",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/502512.502529"
+            },
+            {
+                "key": "ref35",
+                "article-title": "Bounding an attack's complexity for a simple learning model",
+                "author": "nelson",
+                "year": "2006",
+                "journal-title": "Workshop on Tackling Computer Systems Problems with Machine Learning Techniques"
+            },
+            {
+                "key": "ref34",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/TSMCB.2012.2223460"
+            },
+            {
+                "key": "ref28",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/257874.257896"
+            },
+            {
+                "key": "ref27",
+                "doi-asserted-by": "crossref",
+                "first-page": "235",
+                "DOI": "10.1214/ss/1042727940",
+                "article-title": "Statistical fraud detection: A review",
+                "volume": "17",
+                "author": "bolton",
+                "year": "2002",
+                "journal-title": "Statistical Science"
+            },
+            {
+                "key": "ref29",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2810103.2813677"
+            },
+            {
+                "key": "ref20",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2046684.2046692"
+            },
+            {
+                "key": "ref22",
+                "first-page": "405",
+                "article-title": "Online anomaly detection under adversarial impact",
+                "author": "kloft",
+                "year": "2010",
+                "journal-title": "13th International Conference on Artificial Intelligence and Statistics"
+            },
+            {
+                "key": "ref21",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/EuroSP.2016.36"
+            },
+            {
+                "key": "ref24",
+                "article-title": "Intriguing properties of neural networks",
+                "author": "szegedy",
+                "year": "2014",
+                "journal-title": "International Conference on Learning Representations"
+            },
+            {
+                "key": "ref23",
+                "first-page": "1528",
+                "article-title": "Acces-sorize to a crime: Real and stealthy attacks on state-of-the-art face recognition",
+                "author": "sharif",
+                "year": "2016",
+                "journal-title": "23rd ACM SIGSAC Conference on Computer and Communications Security"
+            },
+            {
+                "key": "ref101",
+                "author": "kleinberg",
+                "year": "2016",
+                "journal-title": "Inherent trade-offs in the fair determination of risk scores"
+            },
+            {
+                "key": "ref26",
+                "first-page": "197",
+                "article-title": "Practical evasion of a learning-based classifier: A case study",
+                "year": "2014",
+                "journal-title": "IEEE Symposium on Security and Privacy"
+            },
+            {
+                "key": "ref100",
+                "author": "goodman",
+                "year": "2016",
+                "journal-title": "European union regulations on algorithmic decision-making and a&#x201D; right to explanation&#x201D;"
+            },
+            {
+                "key": "ref25",
+                "author": "papernot",
+                "year": "2016",
+                "journal-title": "Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples"
+            },
+            {
+                "key": "ref50",
+                "author": "kurakin",
+                "year": "2016",
+                "journal-title": "Adversarial examples in the physical world"
+            },
+            {
+                "key": "ref51",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.14722/ndss.2016.23115",
+                "article-title": "Automatically evading classifiers: A case study on PDF malware classifiers",
+                "author": "xu",
+                "year": "2016",
+                "journal-title": "Network and Distributed Systems Symp"
+            },
+            {
+                "key": "ref59",
+                "author": "behzadan",
+                "year": "2017",
+                "journal-title": "Vulnerability of deep reinforcement learning to policy induction attacks"
+            },
+            {
+                "key": "ref58",
+                "first-page": "1689",
+                "article-title": "Is feature selection secure against training data poisoning?",
+                "author": "xiao",
+                "year": "2015",
+                "journal-title": "Proceedings of the 32nd International Conference on Machine Learning (ICML-15)"
+            },
+            {
+                "key": "ref57",
+                "first-page": "2871",
+                "article-title": "Using machine teaching to identify optimal training-set attacks on machine learners",
+                "author": "mei",
+                "year": "2015",
+                "journal-title": "AAAI"
+            },
+            {
+                "key": "ref56",
+                "article-title": "Poisoning attacks against support vector machines",
+                "author": "biggio",
+                "year": "2012",
+                "journal-title": "The 29th International Conference on Machine Learning"
+            },
+            {
+                "key": "ref55",
+                "author": "liu",
+                "year": "2016",
+                "journal-title": "Delving into transferable adversarial examples and black-box attacks"
+            },
+            {
+                "key": "ref54",
+                "author": "papernot",
+                "year": "2016",
+                "journal-title": "Transferability in machine learning from phenomena to black-box attacks using adversarial samples"
+            },
+            {
+                "key": "ref53",
+                "first-page": "601",
+                "article-title": "Stealing machine learning models via prediction APIs",
+                "author": "tram\u00e8r",
+                "year": "2016",
+                "journal-title": "25th USENIX Security Symposium"
+            },
+            {
+                "key": "ref52",
+                "first-page": "17",
+                "article-title": "Privacy in pharmacogenetics: An end-to-end case study of personalized warfarin dosing",
+                "author": "fredrikson",
+                "year": "2014",
+                "journal-title": "23rd USENIX Security Symposium"
+            },
+            {
+                "key": "ref40",
+                "author": "vapnik",
+                "year": "1998",
+                "journal-title": "Statistical Learning Theory"
+            },
+            {
+                "key": "ref4",
+                "article-title": "Oblivious multi-party machine learning on trusted processors",
+                "author": "ohrimenko",
+                "year": "2016",
+                "journal-title": "25th USENIX Security Symposium"
+            },
+            {
+                "key": "ref3",
+                "author": "amodei",
+                "year": "2016",
+                "journal-title": "Concrete problems in ai safety"
+            },
+            {
+                "key": "ref6",
+                "first-page": "1097",
+                "article-title": "Imagenet classification with deep convolutional neural networks",
+                "author": "krizhevsky",
+                "year": "2012",
+                "journal-title": "Advances in neural information processing systems"
+            },
+            {
+                "key": "ref5",
+                "author": "murphy",
+                "year": "2012",
+                "journal-title": "Machine Learning A Probabilistic Perspective"
+            },
+            {
+                "key": "ref8",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/72.788645"
+            },
+            {
+                "key": "ref49",
+                "article-title": "Adversarial perturbations against deep neural networks for malware classification",
+                "author": "grosse",
+                "year": "2017",
+                "journal-title": "22nd European Symposium on Research in Computer Security"
+            },
+            {
+                "key": "ref7",
+                "first-page": "3104",
+                "article-title": "Sequence to sequence learning with neural networks",
+                "author": "sutskever",
+                "year": "2014",
+                "journal-title": "Advances in neural information processing systems"
+            },
+            {
+                "key": "ref9",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/331499.331504"
+            },
+            {
+                "key": "ref46",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2017.49"
+            },
+            {
+                "key": "ref45",
+                "first-page": "1452",
+                "article-title": "Data poisoning attacks against autoregressive models",
+                "author": "alfeld",
+                "year": "2016",
+                "journal-title": "AAAI Conference on Artificial Intelligence"
+            },
+            {
+                "key": "ref48",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1504/IJSN.2015.071829"
+            },
+            {
+                "key": "ref47",
+                "author": "hayes",
+                "year": "2017",
+                "journal-title": "Logan Evaluating privacy leakage of generative models using generative adversarial networks"
+            },
+            {
+                "key": "ref42",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-642-40994-3_25"
+            },
+            {
+                "key": "ref41",
+                "first-page": "27",
+                "article-title": "Poisoning behavioral mal ware clustering",
+                "author": "biggio",
+                "year": "2014",
+                "journal-title": "ACM workshop on Security and Artificial Intelligence"
+            },
+            {
+                "key": "ref44",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2016.282"
+            },
+            {
+                "key": "ref43",
+                "article-title": "Explaining and harnessing adversarial examples",
+                "author": "goodfellow",
+                "year": "2015",
+                "journal-title": "International Conference on Learning Representations"
+            },
+            {
+                "key": "ref73",
+                "first-page": "1293",
+                "article-title": "Query strategies for evading convex-inducing classifiers",
+                "volume": "13",
+                "author": "nelson",
+                "year": "2012",
+                "journal-title": "Journal of Machine Learning Research"
+            },
+            {
+                "key": "ref72",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1081870.1081950"
+            },
+            {
+                "key": "ref71",
+                "first-page": "485",
+                "article-title": "Optimal randomized classification in adversarial settings",
+                "author": "vorobeychik",
+                "year": "2014",
+                "journal-title": "International Conference on Autonomous Agents and Multi-Agent Systems"
+            },
+            {
+                "key": "ref70",
+                "article-title": "Good word attacks on statistical spam filters",
+                "author": "lowd",
+                "year": "2005",
+                "journal-title": "CEAS"
+            },
+            {
+                "key": "ref76",
+                "doi-asserted-by": "crossref",
+                "first-page": "818",
+                "DOI": "10.1007/978-3-319-10590-1_53",
+                "article-title": "Visualizing and understanding convolutional networks",
+                "author": "zeiler",
+                "year": "2014",
+                "journal-title": "Computer Vision-ECCV 2014"
+            },
+            {
+                "key": "ref77",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1644893.1644895"
+            },
+            {
+                "key": "ref74",
+                "first-page": "2672",
+                "article-title": "Generative adversarial nets",
+                "author": "goodfellow",
+                "year": "2014",
+                "journal-title": "Advances in neural information processing systems"
+            },
+            {
+                "key": "ref75",
+                "author": "mcsherry",
+                "year": "2016",
+                "journal-title": "Statistical inference considered harmful"
+            },
+            {
+                "key": "ref78",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-642-04274-4_91"
+            },
+            {
+                "key": "ref79",
+                "first-page": "536",
+                "article-title": "Robust support vector machine training via convex outlier ablation",
+                "volume": "6",
+                "author": "xu",
+                "year": "2006",
+                "journal-title": "Twenty- First AAAI Conference on Artificial Intelligence"
+            },
+            {
+                "key": "ref60",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2005.15"
+            },
+            {
+                "key": "ref62",
+                "article-title": "Distilling the knowledge in a neural network",
+                "author": "hinton",
+                "year": "2014",
+                "journal-title": "Deep Learning and Representation Learning Workshop NIPS"
+            },
+            {
+                "key": "ref61",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2006.26"
+            },
+            {
+                "key": "ref63",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/BF01589116"
+            },
+            {
+                "key": "ref64",
+                "author": "lecun",
+                "year": "1998",
+                "journal-title": "The MNIST Database of Handwritten Digits"
+            },
+            {
+                "key": "ref65",
+                "author": "huang",
+                "year": "2015",
+                "journal-title": "Learning with a strong adversary"
+            },
+            {
+                "key": "ref66",
+                "article-title": "Adversarial perturbations of deep neural networks",
+                "author": "warde-farley",
+                "year": "2016",
+                "journal-title": "Advanced Structured Prediction"
+            },
+            {
+                "key": "ref67",
+                "author": "tram\u00e8r",
+                "year": "2017",
+                "journal-title": "The space of transferable adversarial examples"
+            },
+            {
+                "key": "ref68",
+                "author": "huang",
+                "year": "2017",
+                "journal-title": "Adversarial attacks on neural network policies"
+            },
+            {
+                "key": "ref2",
+                "author": "pfleeger",
+                "year": "2012",
+                "journal-title": "Analyzing Computer Security A Threat/Vulnerability/Countermeasure Approach"
+            },
+            {
+                "key": "ref69",
+                "article-title": "On attacking statistical spam filters",
+                "author": "wittel",
+                "year": "2004",
+                "journal-title": "CEAS"
+            },
+            {
+                "key": "ref1",
+                "article-title": "Preparing for the future of artificial intelligence",
+                "author": "house",
+                "year": "2016",
+                "journal-title": "Executive Office of the President National Science and Technology Council Committee on Technology"
+            },
+            {
+                "key": "ref109",
+                "author": "stock",
+                "year": "2017",
+                "journal-title": "Convnets and imagenet beyond accuracy Explanations bias detection adversarial examples and model criticism"
+            },
+            {
+                "key": "ref95",
+                "author": "hamm",
+                "year": "2016",
+                "journal-title": "Learning privately from multiparty data"
+            },
+            {
+                "key": "ref108",
+                "author": "edwards",
+                "year": "2015",
+                "journal-title": "Censoring representations with an adversary"
+            },
+            {
+                "key": "ref94",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2976749.2978318"
+            },
+            {
+                "key": "ref107",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2090236.2090255"
+            },
+            {
+                "key": "ref93",
+                "doi-asserted-by": "crossref",
+                "first-page": "1310",
+                "DOI": "10.1145/2810103.2813687",
+                "article-title": "Privacy-preserving deep learning",
+                "author": "shokri",
+                "year": "2015",
+                "journal-title": "22nd ACM SIGSAC Conference on Computer and Communications Security"
+            },
+            {
+                "key": "ref106",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3097983.3098095"
+            },
+            {
+                "key": "ref92",
+                "author": "bassily",
+                "year": "2014",
+                "journal-title": "Differentially private empirical risk minimization Efficient algorithms and tight error bounds"
+            },
+            {
+                "key": "ref105",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3033274.3084096"
+            },
+            {
+                "key": "ref91",
+                "first-page": "1069",
+                "article-title": "Differentially private empirical risk minimization",
+                "volume": "12",
+                "author": "chaudhuri",
+                "year": "2011",
+                "journal-title": "Journal of Machine Learning Research"
+            },
+            {
+                "key": "ref104",
+                "author": "zafar",
+                "year": "2017",
+                "journal-title": "Fairness constraints A mechanism for fair classification"
+            },
+            {
+                "key": "ref90",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2660267.2660348"
+            },
+            {
+                "key": "ref103",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2139/ssrn.2477899"
+            },
+            {
+                "key": "ref102",
+                "author": "kusner",
+                "year": "2017",
+                "journal-title": "Counterfactual fairness"
+            },
+            {
+                "key": "ref111",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2939672.2939778"
+            },
+            {
+                "key": "ref112",
+                "article-title": "Algorithmic transparency via quantitative input influence",
+                "author": "datta",
+                "year": "2016",
+                "journal-title": "Proc 37th IEEE Symp Security and Privacy"
+            },
+            {
+                "key": "ref110",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1214/15-AOAS848"
+            },
+            {
+                "key": "ref98",
+                "first-page": "201",
+                "article-title": "Cryptonets: Applying neural networks to encrypted data with high throughput and accuracy",
+                "author": "gilad-bachrach",
+                "year": "2016",
+                "journal-title": "Proc 33rd Int Conf Mach Learn"
+            },
+            {
+                "key": "ref99",
+                "first-page": "753",
+                "article-title": "Estimation of the warfarin dose with clinical and pharmacogenetic data",
+                "volume": "2009",
+                "author": "consortium",
+                "year": "2009",
+                "journal-title": "N Engl J Med"
+            },
+            {
+                "key": "ref96",
+                "author": "papernot",
+                "year": "2016",
+                "journal-title": "Semi-supervised knowledge transfer for deep learning from private training data"
+            },
+            {
+                "key": "ref97",
+                "first-page": "169",
+                "article-title": "On data banks and privacy homomorphisms",
+                "volume": "4",
+                "author": "rivest",
+                "year": "1978",
+                "journal-title": "Foundations of Secure Computation"
+            },
+            {
+                "key": "ref10",
+                "author": "krizhevsky",
+                "year": "2009",
+                "journal-title": "Learning multiple layers of features from tiny images"
+            },
+            {
+                "key": "ref11",
+                "first-page": "625",
+                "article-title": "Why does unsupervised pre-training help deep learning?",
+                "volume": "11",
+                "author": "erhan",
+                "year": "2010",
+                "journal-title": "Journal of Machine Learning Research"
+            },
+            {
+                "key": "ref12",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1541880.1541882"
+            },
+            {
+                "key": "ref13",
+                "first-page": "1039",
+                "article-title": "Nash Q-learning for general-sum stochastic games",
+                "volume": "4",
+                "author": "hu",
+                "year": "2003",
+                "journal-title": "Journal of Machine Learning Research"
+            },
+            {
+                "key": "ref14",
+                "author": "sutton",
+                "year": "1998",
+                "journal-title": "Reinforcement Learning An Introduction"
+            },
+            {
+                "key": "ref15",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1038/nature16961"
+            },
+            {
+                "key": "ref16",
+                "article-title": "Pattern recognition",
+                "author": "bishop",
+                "year": "2006",
+                "journal-title": "Machine Learning"
+            },
+            {
+                "key": "ref82",
+                "article-title": "Towards deep neural network architectures robust to adversarial examples",
+                "author": "gu",
+                "year": "2015",
+                "journal-title": "Proceedings of the 2015 International Conference on Learning Representations Computational and Biological Learning Society"
+            },
+            {
+                "key": "ref17",
+                "author": "goodfellow",
+                "year": "2016",
+                "journal-title": "Deep Learning"
+            },
+            {
+                "key": "ref81",
+                "author": "steinhardt",
+                "year": "2017",
+                "journal-title": "Certified defenses for data poisoning attacks"
+            },
+            {
+                "key": "ref18",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2307/2685209"
+            },
+            {
+                "key": "ref84",
+                "author": "papernot",
+                "year": "2016",
+                "journal-title": "On the effectiveness of defensive distillation"
+            },
+            {
+                "key": "ref19",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1128817.1128824"
+            },
+            {
+                "key": "ref83",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2016.41"
+            },
+            {
+                "key": "ref114",
+                "article-title": "Visualizing higher-layer features of a deep network",
+                "volume": "1341",
+                "author": "erhan",
+                "year": "2009",
+                "journal-title": "University of Montreal"
+            },
+            {
+                "key": "ref113",
+                "author": "koh",
+                "year": "2017",
+                "journal-title": "Understanding black-box predictions via influence functions"
+            },
+            {
+                "key": "ref80",
+                "first-page": "5",
+                "article-title": "La cryptographie militaire",
+                "author": "kerckhoffs",
+                "year": "1883",
+                "journal-title": "Journal des sciences militaires"
+            },
+            {
+                "key": "ref115",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/s11263-016-0911-8"
+            },
+            {
+                "key": "ref89",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1137/090756090"
+            },
+            {
+                "key": "ref85",
+                "author": "szegedy",
+                "year": "2015",
+                "journal-title": "Rethinking the inception architecture for computer vision"
+            },
+            {
+                "key": "ref86",
+                "article-title": "Adversarial perturbations of deep neural networks",
+                "author": "warde-farley",
+                "year": "2016",
+                "journal-title": "Advanced Structured Prediction"
+            },
+            {
+                "key": "ref87",
+                "author": "li",
+                "year": "2017",
+                "journal-title": "Dropout inference in bayesian neural networks with alpha-divergences"
+            },
+            {
+                "key": "ref88",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1561/0400000042"
+            }
+        ],
+        "event": {
+            "name": "2018 IEEE European Symposium on Security and Privacy (EuroS&P)",
+            "location": "London",
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        24
+                    ]
+                ]
+            },
+            "end": {
+                "date-parts": [
+                    [
+                        2018,
+                        4,
+                        26
+                    ]
+                ]
+            }
+        },
+        "container-title": [
+            "2018 IEEE European Symposium on Security and Privacy (EuroS&amp;P)"
+        ],
+        "link": [
+            {
+                "URL": "http://xplorestaging.ieee.org/ielx7/8405665/8406578/08406613.pdf?arnumber=8406613",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2022,
+                    8,
+                    27
+                ]
+            ],
+            "date-time": "2022-08-27T04:22:00Z",
+            "timestamp": 1661574120000
+        },
+        "score": 27.627272,
+        "resource": {
+            "primary": {
+                "URL": "https://ieeexplore.ieee.org/document/8406613/"
+            }
+        },
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    4
+                ]
+            ]
+        },
+        "references-count": 115,
+        "URL": "http://dx.doi.org/10.1109/eurosp.2018.00035",
+        "published": {
+            "date-parts": [
+                [
+                    2018,
+                    4
+                ]
+            ]
+        }
+    },
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2024,
+                    4,
+                    16
+                ]
+            ],
+            "date-time": "2024-04-16T09:49:37Z",
+            "timestamp": 1713260977068
+        },
+        "reference-count": 48,
+        "publisher": "IEEE",
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2017,
+                    5
+                ]
+            ]
+        },
+        "DOI": "10.1109/sp.2017.12",
+        "type": "proceedings-article",
+        "created": {
+            "date-parts": [
+                [
+                    2017,
+                    6,
+                    26
+                ]
+            ],
+            "date-time": "2017-06-26T16:34:26Z",
+            "timestamp": 1498494866000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 867,
+        "title": [
+            "SecureML: A System for Scalable Privacy-Preserving Machine Learning"
+        ],
+        "prefix": "10.1109",
+        "author": [
+            {
+                "given": "Payman",
+                "family": "Mohassel",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Yupeng",
+                "family": "Zhang",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "263",
+        "reference": [
+            {
+                "key": "ref39",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-540-85174-5_31"
+            },
+            {
+                "key": "ref38",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/3-540-48910-X_16"
+            },
+            {
+                "key": "ref33",
+                "first-page": "855",
+                "article-title": "On the computational efficiency of training neural networks",
+                "author": "livni",
+                "year": "2014",
+                "journal-title": "Advances in neural information processing systems"
+            },
+            {
+                "key": "ref32",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/s00145-008-9036-8"
+            },
+            {
+                "key": "ref31",
+                "first-page": "36",
+                "article-title": "Privacy preserving data mining",
+                "author": "lindell",
+                "year": "2000",
+                "journal-title": "6th Annual International Cryptology Conference"
+            },
+            {
+                "key": "ref30",
+                "doi-asserted-by": "crossref",
+                "first-page": "486",
+                "DOI": "10.1007/978-3-540-70583-3_40",
+                "article-title": "Improved garbled circuit: Free xor gates and applications",
+                "author": "kolesnikov",
+                "year": "2008",
+                "journal-title": "International Colloquium on Automata Languages and Programming"
+            },
+            {
+                "key": "ref37",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2013.30"
+            },
+            {
+                "key": "ref36",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2508859.2516751"
+            },
+            {
+                "key": "ref35",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2015.30"
+            },
+            {
+                "key": "ref34",
+                "author": "malkhi",
+                "year": "0",
+                "journal-title": "Fairplay A secure two-party computation system"
+            },
+            {
+                "key": "ref10",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2857705.2857731"
+            },
+            {
+                "key": "ref40",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1014052.1014139"
+            },
+            {
+                "key": "ref11",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2508859.2516738"
+            },
+            {
+                "key": "ref12",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2013.39"
+            },
+            {
+                "key": "ref13",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2382196.2382279"
+            },
+            {
+                "key": "ref14",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1315245.1315306"
+            },
+            {
+                "key": "ref15",
+                "doi-asserted-by": "crossref",
+                "first-page": "136",
+                "DOI": "10.1109/SFCS.2001.959888",
+                "article-title": "Universally composable security: A new paradigm for cryptographic protocols",
+                "author": "canetti",
+                "year": "2001",
+                "journal-title": "Foundations of Computer Science 2001 Proceedings 42nd IEEE Symposium on"
+            },
+            {
+                "key": "ref16",
+                "first-page": "289",
+                "article-title": "Privacy-preserving logistic regression",
+                "author": "chaudhuri",
+                "year": "2009",
+                "journal-title": "Advances in neural information processing systems"
+            },
+            {
+                "key": "ref17",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1504/IJACT.2008.017048"
+            },
+            {
+                "key": "ref18",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.14722/ndss.2015.23113"
+            },
+            {
+                "key": "ref19",
+                "first-page": "273",
+                "article-title": "Privacy-preserving cooperative scientific computations",
+                "volume": "1",
+                "author": "du",
+                "year": "2001",
+                "journal-title": "CSFW"
+            },
+            {
+                "key": "ref28",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1081870.1081942"
+            },
+            {
+                "key": "ref4",
+                "year": "0",
+                "journal-title": "Gisette data set"
+            },
+            {
+                "key": "ref27",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-540-45146-4_9"
+            },
+            {
+                "key": "ref3",
+                "year": "0",
+                "journal-title": "EMP toolkit"
+            },
+            {
+                "key": "ref6",
+                "year": "0",
+                "journal-title": "The MNIST database"
+            },
+            {
+                "key": "ref29",
+                "first-page": "272",
+                "article-title": "Outsourcing multiparty computation",
+                "author": "kamara",
+                "year": "2011",
+                "journal-title": "IACR Cryptology ePrint Archive"
+            },
+            {
+                "key": "ref5",
+                "year": "0",
+                "journal-title": "The Gmp Library"
+            },
+            {
+                "key": "ref8",
+                "year": "0",
+                "journal-title": "TENSOR"
+            },
+            {
+                "key": "ref7",
+                "year": "0",
+                "journal-title": "The NTL library"
+            },
+            {
+                "key": "ref2",
+                "year": "0",
+                "journal-title": "The eigen library"
+            },
+            {
+                "key": "ref1",
+                "year": "0",
+                "journal-title": "Arcene data set"
+            },
+            {
+                "key": "ref9",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2976749.2978318"
+            },
+            {
+                "key": "ref46",
+                "first-page": "1",
+                "article-title": "Privacy-preservation for stochastic gradient descent application to secure logistic regression",
+                "author": "wu",
+                "year": "2013",
+                "journal-title": "The 27th Annual Conference of the Japanese Society for Artificial Intelligence"
+            },
+            {
+                "key": "ref20",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1137/1.9781611972740.21"
+            },
+            {
+                "key": "ref45",
+                "article-title": "Faster two-party computation secure against malicious adversaries in the single-execution setting",
+                "author": "wang",
+                "year": "2016",
+                "journal-title": "Cryptology ePrint Archive"
+            },
+            {
+                "key": "ref48",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/11731139_74"
+            },
+            {
+                "key": "ref22",
+                "first-page": "201",
+                "article-title": "Cryptonets: Applying neural networks to encrypted data with high throughput and accuracy",
+                "author": "gilad-bachrach",
+                "year": "2016",
+                "journal-title": "Proc 33rd Int Conf Mach Learn"
+            },
+            {
+                "key": "ref47",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SFCS.1982.38"
+            },
+            {
+                "key": "ref21",
+                "author": "gascon",
+                "year": "0",
+                "journal-title": "Secure linear regression on vertically partitioned datasets"
+            },
+            {
+                "key": "ref42",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ICDMW.2007.114"
+            },
+            {
+                "key": "ref24",
+                "author": "gilad-bachrach",
+                "year": "0",
+                "journal-title": "Secure data exchange A marketplace in the cloud"
+            },
+            {
+                "key": "ref41",
+                "first-page": "1310",
+                "article-title": "Privacy-preserving deep learning",
+                "author": "shokri",
+                "year": "2015",
+                "journal-title": "Proceedings of the 22nd ACM SIGSAC Conference on Computerand Communications Security"
+            },
+            {
+                "key": "ref23",
+                "article-title": "Secure data exchange: A marketplace in the cloud",
+                "author": "gilad-bachrach",
+                "year": "2016",
+                "journal-title": "Cryptology ePrint Archive"
+            },
+            {
+                "key": "ref44",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/s10115-007-0073-7"
+            },
+            {
+                "key": "ref26",
+                "author": "hastie",
+                "year": "0",
+                "journal-title": "The Elements of Statistical Learning-Data Mining Inference and Prediction"
+            },
+            {
+                "key": "ref43",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/GlobalSIP.2013.6736861"
+            },
+            {
+                "key": "ref25",
+                "first-page": "545",
+                "article-title": "Result analysis of the nips 2003 feature selection challenge",
+                "author": "guyon",
+                "year": "2004",
+                "journal-title": "Advances in neural information processing systems"
+            }
+        ],
+        "event": {
+            "name": "2017 IEEE Symposium on Security and Privacy (SP)",
+            "location": "San Jose, CA, USA",
+            "start": {
+                "date-parts": [
+                    [
+                        2017,
+                        5,
+                        22
+                    ]
+                ]
+            },
+            "end": {
+                "date-parts": [
+                    [
+                        2017,
+                        5,
+                        26
+                    ]
+                ]
+            }
+        },
+        "container-title": [
+            "2017 IEEE Symposium on Security and Privacy (SP)"
+        ],
+        "link": [
+            {
+                "URL": "http://xplorestaging.ieee.org/ielx7/7957740/7958557/07958569.pdf?arnumber=7958569",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    26
+                ]
+            ],
+            "date-time": "2019-09-26T23:45:41Z",
+            "timestamp": 1569541541000
+        },
+        "score": 27.534012,
+        "resource": {
+            "primary": {
+                "URL": "http://ieeexplore.ieee.org/document/7958569/"
+            }
+        },
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    5
+                ]
+            ]
+        },
+        "references-count": 48,
+        "URL": "http://dx.doi.org/10.1109/sp.2017.12",
+        "published": {
+            "date-parts": [
+                [
+                    2017,
+                    5
+                ]
+            ]
+        }
+    },
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2024,
+                    4,
+                    10
+                ]
+            ],
+            "date-time": "2024-04-10T06:38:58Z",
+            "timestamp": 1712731138567
+        },
+        "reference-count": 58,
+        "publisher": "IEEE",
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    5
+                ]
+            ]
+        },
+        "DOI": "10.1109/sp.2018.00038",
+        "type": "proceedings-article",
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    26
+                ]
+            ],
+            "date-time": "2018-07-26T22:05:11Z",
+            "timestamp": 1532642711000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 228,
+        "title": [
+            "Stealing Hyperparameters in Machine Learning"
+        ],
+        "prefix": "10.1109",
+        "author": [
+            {
+                "given": "Binghui",
+                "family": "Wang",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Neil Zhenqiang",
+                "family": "Gong",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "263",
+        "reference": [
+            {
+                "key": "ref39",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2016.41"
+            },
+            {
+                "key": "ref38",
+                "author": "papernot",
+                "year": "2016",
+                "journal-title": "Towards the science of security and privacy in machine learning"
+            },
+            {
+                "key": "ref33",
+                "article-title": "Near-optimal evasion of convex-inducing classifiers",
+                "author": "nelson",
+                "year": "2010",
+                "journal-title": "AISTATS"
+            },
+            {
+                "key": "ref32",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-0-387-88735-7_2"
+            },
+            {
+                "key": "ref31",
+                "article-title": "Exploiting machine learning to subvert your spam filter",
+                "author": "nelson",
+                "year": "2008",
+                "journal-title": "LEET"
+            },
+            {
+                "key": "ref30",
+                "author": "montgomery",
+                "year": "2015",
+                "journal-title": "Introduction to Linear Regression Analysis"
+            },
+            {
+                "key": "ref37",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/EuroSP.2016.36"
+            },
+            {
+                "key": "ref36",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3052973.3053009"
+            },
+            {
+                "key": "ref35",
+                "article-title": "Paragraph: Thwarting signature learning by training maliciously",
+                "author": "newsome",
+                "year": "2006",
+                "journal-title": "RAID Workshop"
+            },
+            {
+                "key": "ref34",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2005.15"
+            },
+            {
+                "key": "ref28",
+                "article-title": "Delving into transferable adversarial examples and black-box attacks",
+                "author": "liu",
+                "year": "2017",
+                "journal-title": "ICLRE"
+            },
+            {
+                "key": "ref27",
+                "article-title": "Data poisoning attacks on factorization-based collaborative filtering",
+                "author": "li",
+                "year": "2016",
+                "journal-title": "NIPS"
+            },
+            {
+                "key": "ref29",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1081870.1081950"
+            },
+            {
+                "key": "ref2",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1128817.1128824"
+            },
+            {
+                "key": "ref1",
+                "year": "2017",
+                "journal-title": "AMAZON ML SERVICES"
+            },
+            {
+                "key": "ref20",
+                "doi-asserted-by": "crossref",
+                "author": "hosmer",
+                "year": "2013",
+                "journal-title": "Applied Logistic Regression",
+                "DOI": "10.1002/9781118548387"
+            },
+            {
+                "key": "ref22",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2046684.2046692"
+            },
+            {
+                "key": "ref21",
+                "article-title": "A practical guide to support vector classification",
+                "author": "hsu",
+                "year": "2003",
+                "journal-title": "Preprint"
+            },
+            {
+                "key": "ref24",
+                "article-title": "Online anomaly detection under adversarial impact",
+                "author": "kloft",
+                "year": "2010",
+                "journal-title": "AISTATS"
+            },
+            {
+                "key": "ref23",
+                "doi-asserted-by": "crossref",
+                "DOI": "10.1609/aaai.v30i1.10061",
+                "article-title": "Behavioral experiments in email filter evasion",
+                "author": "ke",
+                "year": "2016",
+                "journal-title": "AAAI"
+            },
+            {
+                "key": "ref26",
+                "article-title": "Feature cross-substitution in adversarial classification",
+                "author": "li",
+                "year": "2014",
+                "journal-title": "NIPS"
+            },
+            {
+                "key": "ref25",
+                "year": "2017",
+                "journal-title": "Learning"
+            },
+            {
+                "key": "ref50",
+                "article-title": "Detection of malicious pdf files based on hierarchical document structure",
+                "author": "srndic",
+                "year": "2013",
+                "journal-title": "NDSS"
+            },
+            {
+                "key": "ref51",
+                "article-title": "Practical evasion of a learning-based classifier: A case study",
+                "author": "srndic",
+                "year": "2014",
+                "journal-title": "IEEE S & P"
+            },
+            {
+                "key": "ref58",
+                "article-title": "Regularization and variable selection via the elastic net",
+                "author": "zou",
+                "year": "2005",
+                "journal-title": "JRSSB"
+            },
+            {
+                "key": "ref57",
+                "article-title": "Fake co-visitation injection attacks to recommender systems",
+                "author": "yang",
+                "year": "2017",
+                "journal-title": "NDSSz"
+            },
+            {
+                "key": "ref56",
+                "article-title": "Automatically evading classifiers: A case study on pdf malware classifiers",
+                "author": "xu",
+                "year": "2016",
+                "journal-title": "NDSS"
+            },
+            {
+                "key": "ref55",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-642-41136-6_11"
+            },
+            {
+                "key": "ref54",
+                "article-title": "Stealing machine learning models via prediction apis",
+                "author": "tram\u00e8r",
+                "year": "2016",
+                "journal-title": "USENIX Security Symposium"
+            },
+            {
+                "key": "ref53",
+                "article-title": "Regression shrinkage and selection via the lasso",
+                "author": "tibshirani",
+                "year": "1996",
+                "journal-title": "JRSSB"
+            },
+            {
+                "key": "ref52",
+                "author": "szegedy",
+                "year": "2013",
+                "journal-title": "Intriguing properties of neural networks"
+            },
+            {
+                "key": "ref10",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2017.49"
+            },
+            {
+                "key": "ref11",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1961189.1961199"
+            },
+            {
+                "key": "ref40",
+                "article-title": "Scikit-learn: Machine learning in python",
+                "author": "pedregosa",
+                "year": "2011",
+                "journal-title": "JMLR"
+            },
+            {
+                "key": "ref12",
+                "first-page": "1069",
+                "article-title": "Differentially private empirical risk minimization",
+                "author": "chaudhuri",
+                "year": "2011",
+                "journal-title": "JMLR"
+            },
+            {
+                "key": "ref13",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/BF00994018"
+            },
+            {
+                "key": "ref14",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2810103.2813677"
+            },
+            {
+                "key": "ref15",
+                "article-title": "Privacy in pharmacogenetics: An end-to-end case study of personalized warfarin dosing",
+                "author": "fredrikson",
+                "year": "2014",
+                "journal-title": "USENIX Security Symposium"
+            },
+            {
+                "key": "ref16",
+                "author": "goodfellow",
+                "year": "2016",
+                "journal-title": "Deep Learning"
+            },
+            {
+                "key": "ref17",
+                "author": "goodfellow",
+                "year": "2014",
+                "journal-title": "Explaining and Harnessing Adversarial Examples"
+            },
+            {
+                "key": "ref18",
+                "year": "2017",
+                "journal-title": "Google Cloud Platform"
+            },
+            {
+                "key": "ref19",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2307/1267351"
+            },
+            {
+                "key": "ref4",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ICB.2013.6613006"
+            },
+            {
+                "key": "ref3",
+                "article-title": "Evasion attacks against machine learning at test time",
+                "author": "biggio",
+                "year": "2013",
+                "journal-title": "ECML-PKDD"
+            },
+            {
+                "key": "ref6",
+                "year": "2017",
+                "journal-title": "Bigml"
+            },
+            {
+                "key": "ref5",
+                "article-title": "Poisoning attacks against support vector machines",
+                "author": "biggio",
+                "year": "2012",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref8",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3134600.3134606"
+            },
+            {
+                "key": "ref7",
+                "author": "bishop",
+                "year": "2006",
+                "journal-title": "Pattern Recognition and Machine Learning"
+            },
+            {
+                "key": "ref49",
+                "article-title": "Dropout: A simple way to prevent neural networks from overfitting",
+                "author": "srivastava",
+                "year": "2014",
+                "journal-title": "JMLR"
+            },
+            {
+                "key": "ref9",
+                "article-title": "Hidden voice commands",
+                "author": "carlini",
+                "year": "2016",
+                "journal-title": "USENIX Security Symposium"
+            },
+            {
+                "key": "ref46",
+                "year": "2017",
+                "journal-title": "SigOpt"
+            },
+            {
+                "key": "ref45",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2017.41"
+            },
+            {
+                "key": "ref48",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3133956.3134077"
+            },
+            {
+                "key": "ref47",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2420950.2420987"
+            },
+            {
+                "key": "ref42",
+                "article-title": "Knock knock, who's there? membership inference on aggregate location data",
+                "author": "pyrgelis",
+                "year": "2018",
+                "journal-title": "NDSS"
+            },
+            {
+                "key": "ref41",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2006.26"
+            },
+            {
+                "key": "ref44",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2976749.2978392"
+            },
+            {
+                "key": "ref43",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1644893.1644895"
+            }
+        ],
+        "event": {
+            "name": "2018 IEEE Symposium on Security and Privacy (SP)",
+            "location": "San Francisco, CA",
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        20
+                    ]
+                ]
+            },
+            "end": {
+                "date-parts": [
+                    [
+                        2018,
+                        5,
+                        24
+                    ]
+                ]
+            }
+        },
+        "container-title": [
+            "2018 IEEE Symposium on Security and Privacy (SP)"
+        ],
+        "link": [
+            {
+                "URL": "http://xplorestaging.ieee.org/ielx7/8418581/8418583/08418595.pdf?arnumber=8418595",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2022,
+                    8,
+                    28
+                ]
+            ],
+            "date-time": "2022-08-28T07:45:27Z",
+            "timestamp": 1661672727000
+        },
+        "score": 25.975554,
+        "resource": {
+            "primary": {
+                "URL": "https://ieeexplore.ieee.org/document/8418595/"
+            }
+        },
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    5
+                ]
+            ]
+        },
+        "references-count": 58,
+        "URL": "http://dx.doi.org/10.1109/sp.2018.00038",
+        "published": {
+            "date-parts": [
+                [
+                    2018,
+                    5
+                ]
+            ]
+        }
+    },
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2024,
+                    4,
+                    15
+                ]
+            ],
+            "date-time": "2024-04-15T11:08:11Z",
+            "timestamp": 1713179291918
+        },
+        "reference-count": 62,
+        "publisher": "IEEE",
+        "license": [
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2021,
+                            5,
+                            1
+                        ]
+                    ],
+                    "date-time": "2021-05-01T00:00:00Z",
+                    "timestamp": 1619827200000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-009"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2021,
+                            5,
+                            1
+                        ]
+                    ],
+                    "date-time": "2021-05-01T00:00:00Z",
+                    "timestamp": 1619827200000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-001"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    5
+                ]
+            ]
+        },
+        "DOI": "10.1109/sp40001.2021.00098",
+        "type": "proceedings-article",
+        "created": {
+            "date-parts": [
+                [
+                    2021,
+                    8,
+                    26
+                ]
+            ],
+            "date-time": "2021-08-26T21:03:31Z",
+            "timestamp": 1630011811000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 51,
+        "title": [
+            "CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU"
+        ],
+        "prefix": "10.1109",
+        "author": [
+            {
+                "given": "Sijun",
+                "family": "Tan",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "University of Virginia"
+                    }
+                ]
+            },
+            {
+                "given": "Brian",
+                "family": "Knott",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Facebook AI Research"
+                    }
+                ]
+            },
+            {
+                "given": "Yuan",
+                "family": "Tian",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Virginia"
+                    }
+                ]
+            },
+            {
+                "given": "David J.",
+                "family": "Wu",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "University of Virginia"
+                    }
+                ]
+            }
+        ],
+        "member": "263",
+        "reference": [
+            {
+                "key": "ref13",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/s11263-015-0816-y"
+            },
+            {
+                "key": "ref57",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2810103.2813677"
+            },
+            {
+                "key": "ref12",
+                "article-title": "Learning multiple layers of features from tiny images",
+                "author": "krizhevsky",
+                "year": "2009"
+            },
+            {
+                "key": "ref56",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1504/IJSN.2015.071829"
+            },
+            {
+                "key": "ref15",
+                "article-title": "Tiny ImageNet visual recognition challenge",
+                "author": "li",
+                "year": "2017"
+            },
+            {
+                "key": "ref59",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/DAC.2018.8465894"
+            },
+            {
+                "key": "ref14",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2016.90"
+            },
+            {
+                "key": "ref58",
+                "first-page": "601",
+                "article-title": "Stealing machine learning models via prediction apis",
+                "author": "tram\u00e8r",
+                "year": "2016",
+                "journal-title": "USENIX Security Symposium"
+            },
+            {
+                "key": "ref53",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.14722/ndss.2020.23005"
+            },
+            {
+                "key": "ref52",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2478/popets-2020-0036"
+            },
+            {
+                "key": "ref11",
+                "author": "lecun",
+                "year": "0",
+                "journal-title": "The MNIST database"
+            },
+            {
+                "key": "ref55",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.46586/tches.v2018.i2.70-95"
+            },
+            {
+                "key": "ref10",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2976749.2978318"
+            },
+            {
+                "key": "ref54",
+                "article-title": "Towards the alexnet moment for homomorphic encryption: HCNN, the first homomorphic cnn on encrypted data with gpus",
+                "author": "badawi",
+                "year": "2020",
+                "journal-title": "IEEE Transactions on Emerging Topics in Computing"
+            },
+            {
+                "key": "ref17",
+                "article-title": "Very deep convolutional networks for large-scale image recognition",
+                "author": "simonyan",
+                "year": "2015",
+                "journal-title": "ICLRE"
+            },
+            {
+                "key": "ref16",
+                "first-page": "1106",
+                "article-title": "Imagenet classification with deep convolutional neural networks",
+                "author": "krizhevsky",
+                "year": "2012",
+                "journal-title": "NeurIPS"
+            },
+            {
+                "key": "ref19",
+                "article-title": "High performance convolutional neural networks for document processing",
+                "author": "chellapilla",
+                "year": "2006"
+            },
+            {
+                "key": "ref18",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1162/neco.1989.1.4.541"
+            },
+            {
+                "key": "ref51",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2478/popets-2020-0077"
+            },
+            {
+                "key": "ref50",
+                "first-page": "1501",
+                "article-title": "XONN: xnor-based oblivious deep neural network inference",
+                "author": "riazi",
+                "year": "2019",
+                "journal-title": "USENIX Security Symposium"
+            },
+            {
+                "key": "ref46",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3133956.3134056"
+            },
+            {
+                "key": "ref45",
+                "first-page": "201",
+                "article-title": "Cryptonets: Applying neural networks to encrypted data with high throughput and accuracy",
+                "author": "gilad-bachrach",
+                "year": "2016",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref48",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3196494.3196522"
+            },
+            {
+                "key": "ref47",
+                "article-title": "Ezpc: Programmable, efficient, and scalable secure two-party computation for machine learning",
+                "author": "chandran",
+                "year": "2017",
+                "journal-title": "Cryptology ePrint Archive Report 2017/1109"
+            },
+            {
+                "key": "ref42",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2063384.2063405"
+            },
+            {
+                "key": "ref41",
+                "year": "0",
+                "journal-title": "PyTorch/CSPRNG"
+            },
+            {
+                "key": "ref44",
+                "article-title": "A fully homomorphic encryption scheme",
+                "author": "gentry",
+                "year": "2009",
+                "journal-title": "PhD thesis"
+            },
+            {
+                "key": "ref43",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2478/popets-2021-0011"
+            },
+            {
+                "key": "ref49",
+                "first-page": "1651",
+                "article-title": "GAZELLE: A low latency framework for secure neural network inference",
+                "author": "juvekar",
+                "year": "2018",
+                "journal-title": "USENIX Security Symposium"
+            },
+            {
+                "key": "ref8",
+                "first-page": "1",
+                "article-title": "Completeness theorems for non-cryptographic fault-tolerant distributed computation (extended abstract)",
+                "author": "ben-or",
+                "year": "1988",
+                "journal-title": "STOC"
+            },
+            {
+                "key": "ref7",
+                "first-page": "218",
+                "article-title": "How to play any mental game or A completeness theorem for protocols with honest majority",
+                "author": "goldreich",
+                "year": "1987",
+                "journal-title": "STOC"
+            },
+            {
+                "key": "ref9",
+                "first-page": "1310",
+                "article-title": "Privacy-preserving deep learning",
+                "author": "shokri",
+                "year": "2015",
+                "journal-title": "ACM CCS"
+            },
+            {
+                "key": "ref4",
+                "first-page": "2505",
+                "article-title": "Delphi: A cryptographic inference service for neural networks",
+                "author": "mishra",
+                "year": "2020",
+                "journal-title": "Usenix Security"
+            },
+            {
+                "key": "ref3",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2478/popets-2019-0035"
+            },
+            {
+                "key": "ref6",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2478/popets-2021-0011"
+            },
+            {
+                "key": "ref5",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP40000.2020.00092"
+            },
+            {
+                "key": "ref40",
+                "first-page": "807",
+                "article-title": "Rectified linear units improve restricted boltzmann machines",
+                "author": "nair",
+                "year": "2010",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref35",
+                "first-page": "420",
+                "article-title": "Efficient multiparty protocols using circuit randomization",
+                "author": "beaver",
+                "year": "1991",
+                "journal-title": "Crypto"
+            },
+            {
+                "key": "ref34",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.14722/ndss.2015.23113"
+            },
+            {
+                "key": "ref37",
+                "first-page": "225",
+                "article-title": "High-throughput secure three-party computation for malicious adversaries and an honest majority",
+                "author": "furukawa",
+                "year": "2017",
+                "journal-title": "Eurocrypt"
+            },
+            {
+                "key": "ref36",
+                "article-title": "Slalom: Fast, verifiable and private execution of neural networks in trusted hardware",
+                "author": "tram\u00e8r",
+                "year": "2019",
+                "journal-title": "ICLRE"
+            },
+            {
+                "key": "ref31",
+                "first-page": "272",
+                "article-title": "Outsourcing multi-party computation",
+                "volume": "2011",
+                "author": "kamara",
+                "year": "2011",
+                "journal-title": "IACR Cryptol ePrint Arch"
+            },
+            {
+                "key": "ref30",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.14722/ndss.2020.24202"
+            },
+            {
+                "key": "ref33",
+                "year": "0",
+                "journal-title": "Cudnn"
+            },
+            {
+                "key": "ref32",
+                "year": "0",
+                "journal-title": "Cublas"
+            },
+            {
+                "key": "ref2",
+                "first-page": "35",
+                "article-title": "ABY3: A mixed protocol framework for machine learning",
+                "author": "mohassel",
+                "year": "2018",
+                "journal-title": "ACM CCSW"
+            },
+            {
+                "key": "ref1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2017.12"
+            },
+            {
+                "key": "ref39",
+                "author": "goldreich",
+                "year": "2004",
+                "journal-title": "The Foundations of Cryptography - Volume 2 Basic Applications"
+            },
+            {
+                "key": "ref38",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/s001459910006"
+            },
+            {
+                "key": "ref24",
+                "article-title": "CrypTen: Secure multi-party computation meets machine learning",
+                "author": "knott",
+                "year": "2020",
+                "journal-title": "Proceedings of the NeurIPS Workshop on Privacy-Preserving Machine Learning"
+            },
+            {
+                "key": "ref23",
+                "year": "0",
+                "journal-title": "Cloud tensor processing units (tpus)"
+            },
+            {
+                "key": "ref26",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2976749.2978331"
+            },
+            {
+                "key": "ref25",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1002/ecjc.4430720906"
+            },
+            {
+                "key": "ref20",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1162/NECO_a_00052"
+            },
+            {
+                "key": "ref22",
+                "article-title": "Tensorflow: Large-scale machine learning on heterogeneous distributed systems",
+                "author": "abadi",
+                "year": "2016",
+                "journal-title": "CoRR"
+            },
+            {
+                "key": "ref21",
+                "first-page": "8024",
+                "article-title": "PyTorch: An imperative style, high-performance deep learning library",
+                "author": "paszke",
+                "year": "2019",
+                "journal-title": "NeurIPS"
+            },
+            {
+                "key": "ref28",
+                "first-page": "162",
+                "article-title": "How to generate and exchange secrets (extended abstract)",
+                "author": "yao",
+                "year": "1986",
+                "journal-title": "FOCS"
+            },
+            {
+                "key": "ref27",
+                "article-title": "CUDA libraries documentation",
+                "year": "0"
+            },
+            {
+                "key": "ref29",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3338466.3358922"
+            },
+            {
+                "key": "ref60",
+                "article-title": "High-fidelity extraction of neural network models",
+                "author": "jagielski",
+                "year": "2019",
+                "journal-title": "CoRR"
+            },
+            {
+                "key": "ref62",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/5.726791"
+            },
+            {
+                "key": "ref61",
+                "author": "goodfellow",
+                "year": "2016",
+                "journal-title": "Deep Learning"
+            }
+        ],
+        "event": {
+            "name": "2021 IEEE Symposium on Security and Privacy (SP)",
+            "location": "San Francisco, CA, USA",
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        24
+                    ]
+                ]
+            },
+            "end": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        27
+                    ]
+                ]
+            }
+        },
+        "container-title": [
+            "2021 IEEE Symposium on Security and Privacy (SP)"
+        ],
+        "link": [
+            {
+                "URL": "http://xplorestaging.ieee.org/ielx7/9519381/9519382/09519386.pdf?arnumber=9519386",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2023,
+                    11,
+                    8
+                ]
+            ],
+            "date-time": "2023-11-08T23:28:55Z",
+            "timestamp": 1699486135000
+        },
+        "score": 25.856647,
+        "resource": {
+            "primary": {
+                "URL": "https://ieeexplore.ieee.org/document/9519386/"
+            }
+        },
+        "issued": {
+            "date-parts": [
+                [
+                    2021,
+                    5
+                ]
+            ]
+        },
+        "references-count": 62,
+        "URL": "http://dx.doi.org/10.1109/sp40001.2021.00098",
+        "published": {
+            "date-parts": [
+                [
+                    2021,
+                    5
+                ]
+            ]
+        }
+    },
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2024,
+                    4,
+                    16
+                ]
+            ],
+            "date-time": "2024-04-16T07:50:10Z",
+            "timestamp": 1713253810419
+        },
+        "reference-count": 0,
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "issue": "5",
+        "license": [
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            9,
+                            1
+                        ]
+                    ],
+                    "date-time": "2022-09-01T00:00:00Z",
+                    "timestamp": 1661990400000
+                },
+                "content-version": "vor",
+                "delay-in-days": 0,
+                "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            9,
+                            1
+                        ]
+                    ],
+                    "date-time": "2022-09-01T00:00:00Z",
+                    "timestamp": 1661990400000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-009"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2022,
+                            9,
+                            1
+                        ]
+                    ],
+                    "date-time": "2022-09-01T00:00:00Z",
+                    "timestamp": 1661990400000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-001"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "IEEE Secur. Privacy"
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    9
+                ]
+            ]
+        },
+        "DOI": "10.1109/msec.2022.3188190",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2022,
+                    9,
+                    13
+                ]
+            ],
+            "date-time": "2022-09-13T19:40:55Z",
+            "timestamp": 1663098055000
+        },
+        "page": "11-13",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+            "Machine Learning Security and Privacy"
+        ],
+        "prefix": "10.1109",
+        "volume": "20",
+        "author": [
+            {
+                "given": "Nathalie",
+                "family": "Baracaldo",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "IBM Research"
+                    }
+                ]
+            },
+            {
+                "given": "Alina",
+                "family": "Oprea",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Northeastern University"
+                    }
+                ]
+            }
+        ],
+        "member": "263",
+        "container-title": [
+            "IEEE Security &amp; Privacy"
+        ],
+        "link": [
+            {
+                "URL": "http://xplorestaging.ieee.org/ielx7/8013/9888995/09888151.pdf?arnumber=9888151",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2022,
+                    9,
+                    14
+                ]
+            ],
+            "date-time": "2022-09-14T19:34:18Z",
+            "timestamp": 1663184058000
+        },
+        "score": 25.836636,
+        "resource": {
+            "primary": {
+                "URL": "https://ieeexplore.ieee.org/document/9888151/"
+            }
+        },
+        "issued": {
+            "date-parts": [
+                [
+                    2022,
+                    9
+                ]
+            ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+            "issue": "5"
+        },
+        "URL": "http://dx.doi.org/10.1109/msec.2022.3188190",
+        "ISSN": [
+            "1540-7993",
+            "1558-4046"
+        ],
+        "issn-type": [
+            {
+                "value": "1540-7993",
+                "type": "print"
+            },
+            {
+                "value": "1558-4046",
+                "type": "electronic"
+            }
+        ],
+        "subject": [
+            "Law",
+            "Electrical and Electronic Engineering",
+            "Computer Networks and Communications"
+        ],
+        "published": {
+            "date-parts": [
+                [
+                    2022,
+                    9
+                ]
+            ]
+        }
+    },
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2023,
+                    8,
+                    15
+                ]
+            ],
+            "date-time": "2023-08-15T04:20:45Z",
+            "timestamp": 1692073245087
+        },
+        "reference-count": 79,
+        "publisher": "IEEE",
+        "license": [
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2023,
+                            5,
+                            1
+                        ]
+                    ],
+                    "date-time": "2023-05-01T00:00:00Z",
+                    "timestamp": 1682899200000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-029"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2023,
+                            5,
+                            1
+                        ]
+                    ],
+                    "date-time": "2023-05-01T00:00:00Z",
+                    "timestamp": 1682899200000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-037"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/501100011318",
+                "name": "Fondation Botnar",
+                "doi-asserted-by": "publisher"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    5
+                ]
+            ]
+        },
+        "DOI": "10.1109/sp46215.2023.10179291",
+        "type": "proceedings-article",
+        "created": {
+            "date-parts": [
+                [
+                    2023,
+                    7,
+                    21
+                ]
+            ],
+            "date-time": "2023-07-21T17:18:15Z",
+            "timestamp": 1689959895000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+            "On the (In)security of Peer-to-Peer Decentralized Machine Learning"
+        ],
+        "prefix": "10.1109",
+        "author": [
+            {
+                "given": "Dario",
+                "family": "Pasquini",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "EPFL,SPRING Lab,Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Mathilde",
+                "family": "Raynal",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL,SPRING Lab,Switzerland"
+                    }
+                ]
+            },
+            {
+                "given": "Carmela",
+                "family": "Troncoso",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "EPFL,SPRING Lab,Switzerland"
+                    }
+                ]
+            }
+        ],
+        "member": "263",
+        "reference": [
+            {
+                "key": "ref13",
+                "article-title": "Differential privacy",
+                "author": "dwork",
+                "year": "2006",
+                "journal-title": "ICALP (2)"
+            },
+            {
+                "key": "ref57",
+                "article-title": "Systematic evaluation of privacy risks of machine learning models",
+                "author": "song",
+                "year": "2021",
+                "journal-title": "USENIX Security Symposium"
+            },
+            {
+                "key": "ref12",
+                "article-title": "Asynchronous byzantine machine learning (the case of SGD)",
+                "author": "damaskinos",
+                "year": "2018",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref56",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2017.41"
+            },
+            {
+                "key": "ref15",
+                "article-title": "Robbing the fed: Directly obtaining private data in federated learning with modified models",
+                "author": "fowl",
+                "year": "2022",
+                "journal-title": "International Conference on Learning Representations"
+            },
+            {
+                "key": "ref59",
+                "article-title": "Text classification with movie reviews",
+                "year": "2023"
+            },
+            {
+                "key": "ref14",
+                "article-title": "Collaborative learning in the jungle",
+                "author": "el-mhamdi",
+                "year": "2020"
+            },
+            {
+                "key": "ref58",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/TPAMI.2022.3196503"
+            },
+            {
+                "key": "ref53",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1866919.1866921"
+            },
+            {
+                "key": "ref52",
+                "article-title": "Braintorrent: A peer-to-peer environment for decentralized federated learning",
+                "author": "roy",
+                "year": "2019"
+            },
+            {
+                "key": "ref11",
+                "article-title": "DisPFL: Towards communication-efficient personalized federated learning via decentralized sparse training",
+                "author": "dai",
+                "year": "2022",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref55",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ALLERTON.2015.7447103"
+            },
+            {
+                "key": "ref10",
+                "article-title": "Muffliato: Peer-to-peer privacy amplification for decentralized optimization and averaging",
+                "author": "cyffers",
+                "year": "2022",
+                "journal-title": "Advances in neural information processing systems"
+            },
+            {
+                "key": "ref54",
+                "article-title": "A survey on routing in anonymous communication protocols",
+                "author": "shirazi",
+                "year": "2018",
+                "journal-title": "ACM Comput Surv"
+            },
+            {
+                "key": "ref17",
+                "article-title": "Herbivore: A Scalable and Efficient Protocol for Anonymous Communication",
+                "author": "goel",
+                "year": "2003",
+                "journal-title": "Tech Rep"
+            },
+            {
+                "key": "ref16",
+                "article-title": "Inverting gradients - how easy is it to break privacy in federated learning?",
+                "author": "geiping",
+                "year": "2020",
+                "journal-title": "NeurIPS"
+            },
+            {
+                "key": "ref19",
+                "article-title": "Federated learning for mobile keyboard prediction",
+                "author": "hard",
+                "year": "2019"
+            },
+            {
+                "key": "ref18",
+                "article-title": "Badnets: Identifying vulnerabilities in the machine learning model supply chain",
+                "author": "gu",
+                "year": "2017"
+            },
+            {
+                "key": "ref51",
+                "article-title": "Decentralized federated graph neural networks",
+                "author": "pei",
+                "year": "2021",
+                "journal-title": "FTL-IJCAI"
+            },
+            {
+                "key": "ref50",
+                "article-title": "Eluding secure aggregation in federated learning via model inconsistency",
+                "author": "pasquini",
+                "year": "2021"
+            },
+            {
+                "key": "ref46",
+                "article-title": "Comprehensive privacy analysis of deep learning",
+                "author": "nasr",
+                "year": "2018",
+                "journal-title": "IEEE S&P"
+            },
+            {
+                "key": "ref45",
+                "article-title": "Local and central differential privacy for robustness and privacy in federated learning",
+                "author": "naseri",
+                "year": "2020"
+            },
+            {
+                "key": "ref48",
+                "article-title": "Theory-oriented deep leakage from gradients via linear equation solver",
+                "author": "pan",
+                "year": "2020"
+            },
+            {
+                "key": "ref47",
+                "article-title": "Federated learning with buffered asynchronous aggregation",
+                "author": "nguyen",
+                "year": "2021"
+            },
+            {
+                "key": "ref42",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2019.00029"
+            },
+            {
+                "key": "ref41",
+                "article-title": "Learning differentially private recurrent language models",
+                "author": "mcmahan",
+                "year": "2017"
+            },
+            {
+                "key": "ref44",
+                "article-title": "Shadowwalker: peer-to-peer anonymous communication using redundant structured topologies",
+                "author": "mittal",
+                "year": "2009",
+                "journal-title": "CCS"
+            },
+            {
+                "key": "ref43",
+                "article-title": "Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning",
+                "author": "milad",
+                "year": "2019",
+                "journal-title": "IEEE S&P"
+            },
+            {
+                "key": "ref49",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.23919/IFIPNetworking52078.2021.9472790"
+            },
+            {
+                "key": "ref8",
+                "author": "coates",
+                "year": "2011",
+                "journal-title": "AISTATS"
+            },
+            {
+                "key": "ref7",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-030-23502-4_10"
+            },
+            {
+                "key": "ref9",
+                "article-title": "Privacy amplification by decentralization",
+                "author": "cyffers",
+                "year": "2020"
+            },
+            {
+                "key": "ref4",
+                "article-title": "Practical secure aggregation for privacy-preserving machine learning",
+                "author": "bonawitz",
+                "year": "2017",
+                "journal-title": "CCS"
+            },
+            {
+                "key": "ref3",
+                "article-title": "When the curious abandon honesty: Federated learning is not private",
+                "author": "boenisch",
+                "year": "2021"
+            },
+            {
+                "key": "ref6",
+                "article-title": "The fundamental price of secure aggregation in differentially private federated learning",
+                "author": "chen",
+                "year": "2022"
+            },
+            {
+                "key": "ref5",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP46214.2022.9833649"
+            },
+            {
+                "key": "ref40",
+                "article-title": "Communication-efficient learning of deep networks from decentralized data",
+                "author": "mcmahan",
+                "year": "2017",
+                "journal-title": "Artificial Intelligence and Statistics"
+            },
+            {
+                "key": "ref35",
+                "article-title": "Fully decentralized federated learning",
+                "author": "lalitha",
+                "year": "2018",
+                "journal-title": "Third workshop on Bayesian Deep Learning (NeurIPS)"
+            },
+            {
+                "key": "ref79",
+                "article-title": "Deep leakage from gradients",
+                "author": "zhu",
+                "year": "2019",
+                "journal-title": "NeurIPS"
+            },
+            {
+                "key": "ref34",
+                "article-title": "Peer-to-peer federated learning on graphs",
+                "author": "lalitha",
+                "year": "2019"
+            },
+            {
+                "key": "ref78",
+                "article-title": "R-GAP: recursive gradient attack on privacy",
+                "author": "zhu",
+                "year": "2020"
+            },
+            {
+                "key": "ref37",
+                "article-title": "Understanding membership inferences on well-generalized learning models",
+                "author": "long",
+                "year": "2018"
+            },
+            {
+                "key": "ref36",
+                "article-title": "Can decentralized algorithms outperform centralized algorithms? a case study for decentralized parallel stochastic gradient descent",
+                "author": "lian",
+                "year": "2017",
+                "journal-title": "NeurIPS"
+            },
+            {
+                "key": "ref31",
+                "article-title": "A unified theory of decentralized SGD with changing topology and local updates",
+                "author": "koloskova",
+                "year": "2020",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref75",
+                "article-title": "Event-triggered decentralized federated learning over resource-constrained edge devices",
+                "author": "zehtabi",
+                "year": "2022"
+            },
+            {
+                "key": "ref30",
+                "article-title": "Decentralized deep learning with arbitrary communication compression",
+                "author": "koloskova",
+                "year": "2020",
+                "journal-title": "International Conference on Learning Representations"
+            },
+            {
+                "key": "ref74",
+                "article-title": "Defed: A principled decentralized and privacy-preserving federated learning algorithm",
+                "author": "yuan",
+                "year": "2021"
+            },
+            {
+                "key": "ref33",
+                "article-title": "Learning multiple layers of features from tiny images",
+                "author": "krizhevsky",
+                "year": "2009",
+                "journal-title": "Tech Rep"
+            },
+            {
+                "key": "ref77",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/EuroSP51992.2021.00025"
+            },
+            {
+                "key": "ref32",
+                "article-title": "Decentralized stochastic optimization and gossip algorithms with compressed communication",
+                "author": "koloskova",
+                "year": "2019",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref76",
+                "article-title": "Personalized federated learning with first order model optimization",
+                "author": "zhang",
+                "year": "2021",
+                "journal-title": "International Conference on Learning Representations"
+            },
+            {
+                "key": "ref2",
+                "article-title": "Machine learning with adversaries: Byzantine tolerant gradient descent",
+                "author": "blanchard",
+                "year": "2017",
+                "journal-title": "NeurIPS"
+            },
+            {
+                "key": "ref1",
+                "article-title": "Personalized and private peer-to-peer machine learning",
+                "author": "bellet",
+                "year": "2018"
+            },
+            {
+                "key": "ref39",
+                "article-title": "Federated multi-task learning under a mixture of distributions",
+                "author": "marfoq",
+                "year": "2021",
+                "journal-title": "NeurIPS"
+            },
+            {
+                "key": "ref38",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CISS48834.2020.1570617414"
+            },
+            {
+                "key": "ref71",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR46437.2021.01607"
+            },
+            {
+                "key": "ref70",
+                "article-title": "Byzantine-robust distributed learning: Towards optimal statistical rates",
+                "author": "yin",
+                "year": "2018"
+            },
+            {
+                "key": "ref73",
+                "article-title": "Bluefog: Make decentralized algorithms practical for optimization and deep learning",
+                "author": "ying",
+                "year": "2021"
+            },
+            {
+                "key": "ref72",
+                "article-title": "Exponential graph is provably efficient for decentralized deep training",
+                "author": "ying",
+                "year": "2021",
+                "journal-title": "NeurIPS"
+            },
+            {
+                "key": "ref24",
+                "article-title": "Deep models under the gan: Information leakage from collaborative deep learning",
+                "author": "hitaj",
+                "year": "2017",
+                "journal-title": "CCS"
+            },
+            {
+                "key": "ref68",
+                "article-title": "Enhanced membership inference attacks against machine learning models",
+                "author": "ye",
+                "year": "2021"
+            },
+            {
+                "key": "ref23",
+                "article-title": "Gossip learning as a decentralized alternative to federated learning",
+                "author": "hegedu?s",
+                "year": "2019",
+                "journal-title": "IFIP International Conference on Distributed Applications and Interoperable Systems"
+            },
+            {
+                "key": "ref67",
+                "article-title": "Applied federated learning: Improving google keyboard query suggestions",
+                "author": "yang",
+                "year": "2018"
+            },
+            {
+                "key": "ref26",
+                "article-title": "Gradient inversion with generative image prior",
+                "author": "jeon",
+                "year": "2021",
+                "journal-title": "NeurIPS"
+            },
+            {
+                "key": "ref25",
+                "article-title": "Decentralized federated learning: A segmented gossip approach",
+                "author": "hu",
+                "year": "2019"
+            },
+            {
+                "key": "ref69",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CSF.2018.00027"
+            },
+            {
+                "key": "ref20",
+                "article-title": "Central server free federated learning over single-sided trust social networks",
+                "author": "he",
+                "year": "2019"
+            },
+            {
+                "key": "ref64",
+                "article-title": "Fishing for user data in large-batch federated learning via gradient magnification",
+                "author": "wen",
+                "year": "2022",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref63",
+                "article-title": "In search of an anonymous and secure lookup: attacks on structured peer-to-peer anonymous communication systems",
+                "author": "wang",
+                "year": "2010",
+                "journal-title": "CCS"
+            },
+            {
+                "key": "ref22",
+                "article-title": "Byzantine-robust decentralized learning via self-centered clipping",
+                "author": "he",
+                "year": "2022"
+            },
+            {
+                "key": "ref66",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SPAWC48557.2020.9154332"
+            },
+            {
+                "key": "ref21",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CVPR.2016.90"
+            },
+            {
+                "key": "ref65",
+                "article-title": "Local differential privacy in decentralized optimization",
+                "author": "xiao",
+                "year": "2019"
+            },
+            {
+                "key": "ref28",
+                "article-title": "Advances and open problems in federated learning",
+                "author": "kairouz",
+                "year": "2019",
+                "journal-title": "CoRR"
+            },
+            {
+                "key": "ref27",
+                "article-title": "The distributed discrete gaussian mechanism for federated learning with secure aggregation",
+                "author": "kairouz",
+                "year": "2021",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref29",
+                "article-title": "Learning from history for byzantine robust optimization",
+                "author": "karimireddy",
+                "year": "2021",
+                "journal-title": "ICML"
+            },
+            {
+                "key": "ref60",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3548606.3560554"
+            },
+            {
+                "key": "ref62",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ICC47138.2019.9123209"
+            },
+            {
+                "key": "ref61",
+                "article-title": "Relaysum for decentralized deep learning on heterogeneous data",
+                "author": "vogels",
+                "year": "2021",
+                "journal-title": "NeurIPS"
+            }
+        ],
+        "event": {
+            "name": "2023 IEEE Symposium on Security and Privacy (SP)",
+            "location": "San Francisco, CA, USA",
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        21
+                    ]
+                ]
+            },
+            "end": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        25
+                    ]
+                ]
+            }
+        },
+        "container-title": [
+            "2023 IEEE Symposium on Security and Privacy (SP)"
+        ],
+        "link": [
+            {
+                "URL": "http://xplorestaging.ieee.org/ielx7/10179215/10179280/10179291.pdf?arnumber=10179291",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2023,
+                    8,
+                    14
+                ]
+            ],
+            "date-time": "2023-08-14T17:33:25Z",
+            "timestamp": 1692034405000
+        },
+        "score": 25.672104,
+        "resource": {
+            "primary": {
+                "URL": "https://ieeexplore.ieee.org/document/10179291/"
+            }
+        },
+        "issued": {
+            "date-parts": [
+                [
+                    2023,
+                    5
+                ]
+            ]
+        },
+        "references-count": 79,
+        "URL": "http://dx.doi.org/10.1109/sp46215.2023.10179291",
+        "published": {
+            "date-parts": [
+                [
+                    2023,
+                    5
+                ]
+            ]
+        }
+    },
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2024,
+                    4,
+                    12
+                ]
+            ],
+            "date-time": "2024-04-12T07:10:18Z",
+            "timestamp": 1712905818265
+        },
+        "reference-count": 34,
+        "publisher": "IEEE",
+        "license": [
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            5,
+                            1
+                        ]
+                    ],
+                    "date-time": "2020-05-01T00:00:00Z",
+                    "timestamp": 1588291200000
+                },
+                "content-version": "vor",
+                "delay-in-days": 0,
+                "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            5,
+                            1
+                        ]
+                    ],
+                    "date-time": "2020-05-01T00:00:00Z",
+                    "timestamp": 1588291200000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-009"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            5,
+                            1
+                        ]
+                    ],
+                    "date-time": "2020-05-01T00:00:00Z",
+                    "timestamp": 1588291200000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-001"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    5
+                ]
+            ]
+        },
+        "DOI": "10.1109/sp40000.2020.00025",
+        "type": "proceedings-article",
+        "created": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    31
+                ]
+            ],
+            "date-time": "2020-07-31T00:48:34Z",
+            "timestamp": 1596156514000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 49,
+        "title": [
+            "The Value of Collaboration in Convex Machine Learning with Differential Privacy"
+        ],
+        "prefix": "10.1109",
+        "author": [
+            {
+                "given": "Nan",
+                "family": "Wu",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "Farhad",
+                "family": "Farokhi",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "David",
+                "family": "Smith",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Mohamed Ali",
+                "family": "Kaafar",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "263",
+        "reference": [
+            {
+                "key": "ref33",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/FOCS.2014.56"
+            },
+            {
+                "key": "ref32",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1137/18M117306X"
+            },
+            {
+                "key": "ref31",
+                "doi-asserted-by": "crossref",
+                "first-page": "211",
+                "DOI": "10.1561/0400000042",
+                "article-title": "The algorithmic foundations of differential privacy",
+                "volume": "9",
+                "author": "dwork",
+                "year": "2014",
+                "journal-title": "Foundations and Trends in Theoretical Computer Science"
+            },
+            {
+                "key": "ref30",
+                "volume": "3",
+                "author": "shor",
+                "year": "2012",
+                "journal-title": "Minimization Methods for Non-Differentiable Functions"
+            },
+            {
+                "key": "ref34",
+                "article-title": "Introductory Lectures on Convex Optimization: A Basic Course",
+                "author": "nesterov",
+                "year": "2013",
+                "journal-title": "Applied Optimization"
+            },
+            {
+                "key": "ref10",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3133956.3133982"
+            },
+            {
+                "key": "ref11",
+                "first-page": "1",
+                "article-title": "ML confidential: Machine learning on encrypted data",
+                "author": "graepel",
+                "year": "2012",
+                "journal-title": "International Conference on Information Security and Cryptology"
+            },
+            {
+                "key": "ref12",
+                "article-title": "Chiron: Privacy-preserving machine learning as a service",
+                "author": "hunt",
+                "year": "2018",
+                "journal-title": "arXiv preprint arXiv 1803 05961"
+            },
+            {
+                "key": "ref13",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.future.2017.02.006"
+            },
+            {
+                "key": "ref14",
+                "doi-asserted-by": "crossref",
+                "first-page": "1333",
+                "DOI": "10.1109/TIFS.2017.2787987",
+                "article-title": "Privacy-preserving deep learning via additively homomorphic encryption",
+                "volume": "13",
+                "author": "aono",
+                "year": "2018",
+                "journal-title": "IEEE Transactions on Information Forensics and Security"
+            },
+            {
+                "key": "ref15",
+                "first-page": "201",
+                "article-title": "Cryptonets: Applying neural networks to encrypted data with high throughput and accuracy",
+                "author": "gilad-bachrach",
+                "year": "2016",
+                "journal-title": "International Conference on Machine Learning"
+            },
+            {
+                "key": "ref16",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/MSP.2013.2259911"
+            },
+            {
+                "key": "ref17",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.14778/2350229.2350253"
+            },
+            {
+                "key": "ref18",
+                "first-page": "289",
+                "article-title": "Privacy-preserving logistic regression",
+                "author": "chaudhuri",
+                "year": "2009",
+                "journal-title": "Advances in neural information processing systems"
+            },
+            {
+                "key": "ref19",
+                "first-page": "2365",
+                "article-title": "On the differential privacy of Bayesian inference",
+                "author": "zhang",
+                "year": "2016",
+                "journal-title": "AAAI Conference on Artificial Intelligence"
+            },
+            {
+                "key": "ref28",
+                "article-title": "Privacy-preserving machine learning through data obfuscation",
+                "author": "zhang",
+                "year": "2018",
+                "journal-title": "arXiv preprint arXiv 1807 01860"
+            },
+            {
+                "key": "ref4",
+                "year": "0"
+            },
+            {
+                "key": "ref27",
+                "article-title": "Learning differentially private recurrent language models",
+                "author": "mcmahan",
+                "year": "2017",
+                "journal-title": "arXiv preprint arXiv 1710 06963"
+            },
+            {
+                "key": "ref3",
+                "article-title": "Lending club loan data: Analyze lending club&#x2019;s is-sued loans",
+                "author": "kan",
+                "year": "0"
+            },
+            {
+                "key": "ref6",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1137/1.9781611972740.21"
+            },
+            {
+                "key": "ref29",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/TAC.2016.2541298"
+            },
+            {
+                "key": "ref5",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/3-540-44598-6_3"
+            },
+            {
+                "key": "ref8",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/s00778-006-0041-y"
+            },
+            {
+                "key": "ref7",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/775047.775142"
+            },
+            {
+                "key": "ref2",
+                "first-page": "71",
+                "article-title": "Stochastic gradient descent for non-smooth optimization: Convergence results and optimal averaging schemes",
+                "author": "shamir",
+                "year": "2013",
+                "journal-title": "International Conference on Machine Learning"
+            },
+            {
+                "key": "ref9",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1081870.1081942"
+            },
+            {
+                "key": "ref1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1111/rego.12222"
+            },
+            {
+                "key": "ref20",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/TIFS.2016.2607691"
+            },
+            {
+                "key": "ref22",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2684464.2684480"
+            },
+            {
+                "key": "ref21",
+                "article-title": "DP-ADMM: ADMM-based distributed learning with differential privacy",
+                "author": "huang",
+                "year": "2018",
+                "journal-title": "arXiv preprint arXiv 1808 10101"
+            },
+            {
+                "key": "ref24",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/ACC.2015.7170902"
+            },
+            {
+                "key": "ref23",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/TCNS.2016.2614100"
+            },
+            {
+                "key": "ref26",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/2976749.2978318"
+            },
+            {
+                "key": "ref25",
+                "doi-asserted-by": "crossref",
+                "first-page": "1310",
+                "DOI": "10.1145/2810103.2813687",
+                "article-title": "Privacy-preserving deep learning",
+                "author": "shokri",
+                "year": "2015",
+                "journal-title": "Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security"
+            }
+        ],
+        "event": {
+            "name": "2020 IEEE Symposium on Security and Privacy (SP)",
+            "location": "San Francisco, CA, USA",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        18
+                    ]
+                ]
+            },
+            "end": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        21
+                    ]
+                ]
+            }
+        },
+        "container-title": [
+            "2020 IEEE Symposium on Security and Privacy (SP)"
+        ],
+        "link": [
+            {
+                "URL": "http://xplorestaging.ieee.org/ielx7/9144328/9152199/09152691.pdf?arnumber=9152691",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2022,
+                    6,
+                    30
+                ]
+            ],
+            "date-time": "2022-06-30T15:17:19Z",
+            "timestamp": 1656602239000
+        },
+        "score": 25.385687,
+        "resource": {
+            "primary": {
+                "URL": "https://ieeexplore.ieee.org/document/9152691/"
+            }
+        },
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    5
+                ]
+            ]
+        },
+        "references-count": 34,
+        "URL": "http://dx.doi.org/10.1109/sp40000.2020.00025",
+        "published": {
+            "date-parts": [
+                [
+                    2020,
+                    5
+                ]
+            ]
+        }
+    },
+    {
+        "indexed": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    21
+                ]
+            ],
+            "date-time": "2024-03-21T11:59:45Z",
+            "timestamp": 1711022385259
+        },
+        "reference-count": 43,
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "license": [
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2023,
+                            1,
+                            1
+                        ]
+                    ],
+                    "date-time": "2023-01-01T00:00:00Z",
+                    "timestamp": 1672531200000
+                },
+                "content-version": "vor",
+                "delay-in-days": 0,
+                "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2023,
+                            1,
+                            1
+                        ]
+                    ],
+                    "date-time": "2023-01-01T00:00:00Z",
+                    "timestamp": 1672531200000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-029"
+            },
+            {
+                "start": {
+                    "date-parts": [
+                        [
+                            2023,
+                            1,
+                            1
+                        ]
+                    ],
+                    "date-time": "2023-01-01T00:00:00Z",
+                    "timestamp": 1672531200000
+                },
+                "content-version": "stm-asf",
+                "delay-in-days": 0,
+                "URL": "https://doi.org/10.15223/policy-037"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100014810",
+                "name": "Fondazione di Sardegna",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "F73C22001320007"
+                ]
+            },
+            {
+                "DOI": "10.13039/501100004955",
+                "name": "?sterreichische Forschungsf?rderungsgesellschaft",
+                "doi-asserted-by": "publisher",
+                "award": [
+                    "COMET S3AI Module"
+                ]
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "IEEE Trans.Inform.Forensic Secur."
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        },
+        "DOI": "10.1109/tifs.2023.3251842",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2023,
+                    3,
+                    2
+                ]
+            ],
+            "date-time": "2023-03-02T18:22:38Z",
+            "timestamp": 1677781358000
+        },
+        "page": "1749-1762",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+            "Machine Learning Security in Industry: A Quantitative Survey"
+        ],
+        "prefix": "10.1109",
+        "volume": "18",
+        "author": [
+            {
+                "ORCID": "http://orcid.org/0000-0002-5401-4171",
+                "authenticated-orcid": false,
+                "given": "Kathrin",
+                "family": "Grosse",
+                "sequence": "first",
+                "affiliation": [
+                    {
+                        "name": "EPFL, Lausanne, Switzerland"
+                    }
+                ]
+            },
+            {
+                "ORCID": "http://orcid.org/0009-0004-8172-965X",
+                "authenticated-orcid": false,
+                "given": "Lukas",
+                "family": "Bieringer",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "QuantPi, Saarbr&#x00FC;cken, Germany"
+                    }
+                ]
+            },
+            {
+                "ORCID": "http://orcid.org/0000-0002-8002-0049",
+                "authenticated-orcid": false,
+                "given": "Tarek R.",
+                "family": "Besold",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Department of Industrial Engineering and Innovation Sciences, Eindhoven University of Technology, Eindhoven, Netherlands"
+                    }
+                ]
+            },
+            {
+                "ORCID": "http://orcid.org/0000-0001-7752-509X",
+                "authenticated-orcid": false,
+                "given": "Battista",
+                "family": "Biggio",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "Department of Electrical and Electronic Engineering, University of Cagliari, Cagliari, Italy"
+                    }
+                ]
+            },
+            {
+                "given": "Katharina",
+                "family": "Krombholz",
+                "sequence": "additional",
+                "affiliation": [
+                    {
+                        "name": "CISPA Helmholtz Center of Information Security, Saarbr&#x00FC;cken, Germany"
+                    }
+                ]
+            }
+        ],
+        "member": "263",
+        "reference": [
+            {
+                "key": "ref1",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1128817.1128824"
+            },
+            {
+                "key": "ref2",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.patcog.2018.07.023"
+            },
+            {
+                "key": "ref3",
+                "article-title": "Targeted backdoor attacks on deep learning systems using data poisoning",
+                "author": "Chen",
+                "year": "2017",
+                "journal-title": "arXiv:1712.05526"
+            },
+            {
+                "key": "ref4",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3585385"
+            },
+            {
+                "key": "ref5",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1014052.1014066"
+            },
+            {
+                "key": "ref6",
+                "article-title": "BadNets: Identifying vulnerabilities in the ML model supply chain",
+                "author": "Gu",
+                "year": "2017",
+                "journal-title": "arXiv:1708.06733"
+            },
+            {
+                "key": "ref7",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/CNS.2017.8228656"
+            },
+            {
+                "key": "ref8",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1007/978-3-030-28954-6"
+            },
+            {
+                "key": "ref9",
+                "article-title": "Transferability in machine learning: From phenomena to black-box attacks using adversarial samples",
+                "author": "Papernot",
+                "year": "2016",
+                "journal-title": "arXiv:1605.07277"
+            },
+            {
+                "key": "ref10",
+                "first-page": "-1",
+                "article-title": "Intriguing properties of neural networks",
+                "volume-title": "Proc. ICLR",
+                "author": "Szegedy"
+            },
+            {
+                "key": "ref11",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.5555/3241094.3241142"
+            },
+            {
+                "key": "ref12",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/sp.2017.41"
+            },
+            {
+                "key": "ref13",
+                "first-page": "1633",
+                "article-title": "On adaptive attacks to adversarial example defenses",
+                "volume-title": "Proc. Adv. Neural Inf. Process. Syst.",
+                "volume": "33",
+                "author": "Tramer"
+            },
+            {
+                "key": "ref14",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SP.2010.25"
+            },
+            {
+                "key": "ref15",
+                "article-title": "Motivating the rules of the game for adversarial example research",
+                "author": "Gilmer",
+                "year": "2018",
+                "journal-title": "arXiv:1807.06732"
+            },
+            {
+                "key": "ref16",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/SPW50608.2020.00028"
+            },
+            {
+                "key": "ref17",
+                "article-title": "The threat of offensive AI to organizations",
+                "author": "Mirsky",
+                "year": "2021",
+                "journal-title": "arXiv:2106.15764"
+            },
+            {
+                "key": "ref18",
+                "first-page": "97",
+                "article-title": "Industrial practitioners mental models of adversarial machine learning",
+                "volume-title": "Proc. SOUPS",
+                "author": "Bieringer"
+            },
+            {
+                "key": "ref19",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3473856.3473869"
+            },
+            {
+                "key": "ref20",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.3141/2006-11"
+            },
+            {
+                "key": "ref21",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1644893.1644895"
+            },
+            {
+                "key": "ref22",
+                "first-page": "97",
+                "article-title": "Support vector machines under adversarial label noise",
+                "volume-title": "Proc. ACML",
+                "author": "Biggio"
+            },
+            {
+                "key": "ref23",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3243734.3243855"
+            },
+            {
+                "key": "ref24",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/EuroSP.2019.00044"
+            },
+            {
+                "key": "ref25",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1109/MC.2021.3057686"
+            },
+            {
+                "key": "ref26",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.20982/tqmp.04.1.p013"
+            },
+            {
+                "key": "ref27",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1177/002224295201700205"
+            },
+            {
+                "key": "ref28",
+                "first-page": "1",
+                "article-title": "A large-scale interview study on information security in and attacks against small and medium-sized enterprises",
+                "volume-title": "Proc. USENIX Secur.",
+                "author": "Huaman"
+            },
+            {
+                "key": "ref29",
+                "volume-title": "Incident Response: Investigating Computer Crime",
+                "author": "Mandia",
+                "year": "2001"
+            },
+            {
+                "issue": "L 124",
+                "key": "ref30",
+                "first-page": "36",
+                "article-title": "Commission recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises",
+                "volume": "46",
+                "year": "2003",
+                "journal-title": "Off. J. Eur. Union"
+            },
+            {
+                "key": "ref31",
+                "article-title": "Explainable artificial intelligence: Understanding, visualizing and interpreting deep learning models",
+                "author": "Samek",
+                "year": "2017",
+                "journal-title": "arXiv:1708.08296"
+            },
+            {
+                "key": "ref32",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1476589.1476628"
+            },
+            {
+                "key": "ref33",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3411764.3445088"
+            },
+            {
+                "key": "ref34",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1016/j.inffus.2019.12.012"
+            },
+            {
+                "key": "ref35",
+                "journal-title": "State of Machine Learning and Data Science"
+            },
+            {
+                "key": "ref36",
+                "volume-title": "Basics of Qualitative Research",
+                "author": "Strauss",
+                "year": "1990"
+            },
+            {
+                "key": "ref37",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/3359174"
+            },
+            {
+                "issue": "2",
+                "key": "ref38",
+                "first-page": "115",
+                "article-title": "Correlation and agreement: Overview and clarification of competing concepts and measures",
+                "volume": "28",
+                "author": "Jinyuan",
+                "year": "2016",
+                "journal-title": "Shanghai Arch. Psych."
+            },
+            {
+                "key": "ref39",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1177/001316446002000104"
+            },
+            {
+                "key": "ref40",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1108/PRR-03-2019-0006"
+            },
+            {
+                "key": "ref41",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2307/2112723"
+            },
+            {
+                "key": "ref42",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.1145/1234772.1234786"
+            },
+            {
+                "key": "ref43",
+                "doi-asserted-by": "publisher",
+                "DOI": "10.2307/249574"
+            }
+        ],
+        "container-title": [
+            "IEEE Transactions on Information Forensics and Security"
+        ],
+        "link": [
+            {
+                "URL": "http://xplorestaging.ieee.org/ielx7/10206/9970396/10057473.pdf?arnumber=10057473",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    3
+                ]
+            ],
+            "date-time": "2024-03-03T00:05:18Z",
+            "timestamp": 1709424318000
+        },
+        "score": 29.139349,
+        "resource": {
+            "primary": {
+                "URL": "https://ieeexplore.ieee.org/document/10057473/"
+            }
+        },
+        "issued": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        },
+        "references-count": 43,
+        "URL": "http://dx.doi.org/10.1109/tifs.2023.3251842",
+        "ISSN": [
+            "1556-6013",
+            "1556-6021"
+        ],
+        "issn-type": [
+            {
+                "value": "1556-6013",
+                "type": "print"
+            },
+            {
+                "value": "1556-6021",
+                "type": "electronic"
+            }
+        ],
+        "subject": [
+            "Computer Networks and Communications",
+            "Safety, Risk, Reliability and Quality"
+        ],
+        "published": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    }
+]
